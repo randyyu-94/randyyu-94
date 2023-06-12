@@ -24,8 +24,6 @@ I have repositories containing learning materials for several courses, including
 - [Applied Text Mining](https://github.com/randyyu-94/Applied_Text_Mining) by University of Michigan
 - [ChatGPT Prompt Engineering for Developers](https://github.com/randyyu-94/ChatGPT_Prompt_Engineering) by Deeplearning.AI
 
-I also forked repositories for the course [Machine Learning for Earth and Environmental Sciences](https://github.com/randyyu-94/2022_ML_EES) by Tom Beucler from UNI Lausanne, and the machine learning tool [FLAML](https://github.com/randyyu-94/FLAML) by Microsoft.
-
 ## 🤝 Let's Connect
 
 I'm always open to meaningful connections and potential collaborations!
